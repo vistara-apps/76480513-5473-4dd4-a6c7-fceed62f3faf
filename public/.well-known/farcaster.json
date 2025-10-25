@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjkxNTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMmVmNzkwRGQ3OTkzQTM1ZkQ4NDdDMDUzRURkQUU5NDBEMDU1NTk2In0",
+    "payload": "eyJkb21haW4iOiJwcm9wc3Blcml0eS5hcHAifQ",
+    "signature": "MHgxMGQwZGU4ZGYwZDUwZTdmMGIxN2YxMTU2NDI1MjRmZTY0MTUyZGU4ZGU1MWU0MThiYjU4ZjVmZmQxYjRjNDBiNGVlZTRhNDcwNmVmNjhlMzQ0ZGQ5MDBkYmQyMmNlMmVlZGY5ZGQ0N2JlNWRmNzMwYzUxNjE4OWVjZDJjY2Y0MDFj"
+  },
+  "frame": {
+    "version": "next",
+    "name": "Propsperity: Real Estate NFTs",
+    "iconUrl": "https://propsperity.app/icon.png",
+    "splashImageUrl": "https://propsperity.app/splash.png",
+    "splashBackgroundColor": "#0a1929",
+    "homeUrl": "https://propsperity.app/home",
+    "webhookUrl": "https://api.propsperity.app/farcaster-webhook",
+    "subtitle": "Fractional real estate ownership on Base",
+    "description": "Democratize access to high-value real estate through fractional NFT ownership, fostering a vibrant co-ownership community with Farcaster-native tools for investment, governance, and social engagement.",
+    "primaryCategory": "social",
+    "tags": ["realestate", "nft", "defi", "base", "farcaster"],
+    "heroImageUrl": "https://propsperity.app/og-image.png",
+    "tagline": "Invest in real estate, one fraction at a time",
+    "ogTitle": "Propsperity - Fractional Real Estate on Base",
+    "ogDescription": "Democratize access to high-value real estate through fractional NFT ownership",
+    "ogImageUrl": "https://propsperity.app/og-image.png",
+    "screenshotUrls": [
+      "https://propsperity.app/screenshot1.png",
+      "https://propsperity.app/screenshot2.png",
+      "https://propsperity.app/screenshot3.png"
+    ]
+  }
+}
